@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ITGIRLschool_JS_Week_21/static/css/main.073c9b0a.css",
+    "main.js": "/ITGIRLschool_JS_Week_21/static/js/main.0b0d702a.js",
+    "static/js/787.0260eda2.chunk.js": "/ITGIRLschool_JS_Week_21/static/js/787.0260eda2.chunk.js",
+    "index.html": "/ITGIRLschool_JS_Week_21/index.html",
+    "main.073c9b0a.css.map": "/ITGIRLschool_JS_Week_21/static/css/main.073c9b0a.css.map",
+    "main.0b0d702a.js.map": "/ITGIRLschool_JS_Week_21/static/js/main.0b0d702a.js.map",
+    "787.0260eda2.chunk.js.map": "/ITGIRLschool_JS_Week_21/static/js/787.0260eda2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0b0d702a.js"
+  ]
+}
